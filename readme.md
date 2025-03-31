@@ -1,8 +1,8 @@
-# Tic Tac Toe
+Tic Tac Toe
 
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
-# 🚀 Features
+🚀 Features
 
 Playable Tic Tac Toe game
 
@@ -14,7 +14,7 @@ Winning animations with a celebration effect
 
 Reset button to start a new game
 
-# 🛠️ Technologies Used
+🛠️ Technologies Used
 
 HTML for structuring the game board
 
@@ -22,7 +22,7 @@ CSS for styling and animations
 
 JavaScript for game logic and interactivity
 
-# 🎮 How to Play
+🎮 How to Play
 
 The game is played on a 3x3 grid.
 
@@ -32,7 +32,7 @@ The first player to align three marks horizontally, vertically, or diagonally wi
 
 If all boxes are filled and no one wins, it's a draw.
 
-# 📂 Project Structure
+📂 Project Structure
 
 TicTacToe/
 │-- index.html     # Main game structure
@@ -40,7 +40,7 @@ TicTacToe/
 │-- script.js      # Game logic and event handling
 │-- assets/        # Sound effects and images
 
-# 🎵 Sound Effects
+🎵 Sound Effects
 
 music.mp3 - Background music
 
@@ -48,7 +48,7 @@ click.wav - Click sound for moves
 
 gameover.wav - Sound effect when a player wins
 
-# 📌 Setup & Installation
+📌 Setup & Installation
 
 Clone the repository:
 
@@ -59,4 +59,9 @@ Open the index.html file in your browser.
 Play and enjoy!
 
 
-## Enjoy the game! 🎉
+# live demo 
+
+https://anshikamishra23.github.io/TicTacToe/
+
+
+Enjoy the game! 🎉
